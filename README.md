@@ -7,7 +7,7 @@
 </p>
 
 <p align="left" style="background: linear-gradient(90deg,#6a0dad,#9b30ff); padding:20px; border-radius:15px; color:white;">
-  5+ years experience in <b>C#, OOP, Unity, VFX, VR</b>.<br/>
+  7+ years experience in <b>C#, OOP, Unity, VFX, VR</b>.<br/>
   Crafting **high-quality, immersive gaming experiences**, focusing on clean architecture, gameplay systems, and player-centered design.
 </p>
 
